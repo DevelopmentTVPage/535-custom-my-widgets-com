@@ -1,0 +1,15 @@
+{
+    "title": "New",
+    "baseURL": "https:\/\/custom.my.widgets.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759094",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "widgets.com"
+    }
+}
